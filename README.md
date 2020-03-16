@@ -1,5 +1,5 @@
 # python-challenge
-Using python, this assignment will organize massive CSVs of election and finance data to summarize the results.
+Using python, this assignment will process massive CSVs of election and finance data to summarize their respective results.
 ![vote](Images/vote.jpg)
 ## Getting Started
 ### Installing
