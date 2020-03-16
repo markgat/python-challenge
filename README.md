@@ -13,8 +13,8 @@ Using python, this assignment will organize massive CSVs of election and finance
 ## Data
 ### Original Data (Finance)
 86 Entries of net monthly profit/loss preceded by date of record. Entries recorded in monthly periods.
-![profit-loss](Images/profit-loss.png)
+    ![profit-loss](Images/profit-loss.png)
 ### Original Data (Election)
 A whopping collection of 460,997 votes for an election of 4 candidates. Votes listed by voter ID, regional county, and candidate voted for.
-![vote_entries](Images/vote_entries.png)
+    ![vote_entries](Images/vote_entries.png)
 ### Output Data
