@@ -19,4 +19,7 @@ Using python, this assignment will process massive CSVs of election and finance 
 A whopping collection of 460,997 votes for an election of 4 candidates. Votes listed by voter ID, regional county, and candidate voted for.
 
 ![vote_entries](Images/vote_entries.png)
-### Output Data
+### Output Data (Finance)
+Output is a financial analysis with a count of total months, total amount at the end of the time period, the average change in amount, and the greatest increase and decrease in profits with date and amount stated. This ultimately gives us a sense of our financial performance, length of duration, and critical periods to note. 
+![Financial-Analysis](Images/fin_analysis.png)
+### Output Data (Election)
