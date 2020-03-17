@@ -20,6 +20,8 @@ A whopping collection of 460,997 votes for an election of 4 candidates. Votes li
 
 ![vote_entries](Images/vote_entries.png)
 ### Output Data (Finance)
-Output is a financial analysis with a count of total months, total amount at the end of the time period, the average change in amount, and the greatest increase and decrease in profits with date and amount stated. This ultimately gives us a sense of our financial performance, length of duration, and critical periods to note. 
+Output is a financial analysis with a count of total months, total dollar amount at the end of the time period, the average change in amount, and the greatest increase and decrease in profits with date and amount stated. This ultimately gives us a sense of our financial performance, length of duration, and critical periods to note. 
 ![Financial-Analysis](Images/fin_analysis.png)
 ### Output Data (Election)
+Output is the election results containing the count of total votes, candidates with their percentage and amount of votes, and the winner of the overall poll. The analysis gives a sense of the size and influence of the election, significant differences of candidate preferences, and a quick view of the winner of the election.
+![Poll-Analysis](Images/elect_analysis.png)
